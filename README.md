@@ -1,1 +1,3 @@
-# Joy with Machine_Learning :)
+
+
+# Basic machine learning algorithm implementation
